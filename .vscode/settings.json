@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "C:\\Users\\andy_\\Miniconda3\\python.exe"
+    "python.pythonPath": "C:\\Users\\andy_\\Miniconda3\\python.exe",
+    "appService.defaultWebAppToDeploy": "/subscriptions/9a2b9129-0de5-4103-a75f-7a6d70b4d5be/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/gdpnowcasting",
+    "appService.deploySubpath": ""
 }
